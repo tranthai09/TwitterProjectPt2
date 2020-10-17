@@ -35,7 +35,8 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='https://github.com/tranthai09/TwitterProjectPt2' title='Twitter Project 2 Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://github.com/tranthai09/TwitterProjectPt2/blob/master/TwitterProjectPt2.gif' title='Twitter Project 2 Walkthrough' width='' alt='Video Walkthrough' />
+<br>
 <img src='https://github.com/tranthai09/TwitterProjectPt2/blob/master/TwitterProjectPt2CharacterCount.gif' title='Character Count' width='' alt='Video Walkthrough' />
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
